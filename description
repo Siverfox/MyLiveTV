@@ -12,7 +12,8 @@
     9:  plugin-music
     10: plugin-program
     11: plugin-pictures
-    12: plugin-weather     <type>4</type>
+    12: plugin-weather     
+<type>4</type>
 <title>MyLiveTV</title>
 <version>1.0</version>
 <authors>        
