@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<addoninfo>
+<guid>66aad050-f4b3-11e2-b778-0800200c9a66</guid> 
+1:  visualization
+    2:  skin
+    3:  pvrdll
+    4:  script
+    5:  scraper
+    6:  screensaver
+    7:  plugin-pvr
+    8:  plugin-video
+    9:  plugin-music
+    10: plugin-program
+    11: plugin-pictures
+    12: plugin-weather     <type>4</type>
+<title>MyLiveTV</title>
+<version>1.0</version>
+<authors>        
+<author name="Silverfox" email="Silverfoxe@langsongviet.com" />    
+</authors>
+<summary>Watch Live TV with XBMC</summary>
+<description>Watch Live TV with all Vietnamese Channels and others channels</description>    <tags>        <tag></tag>    </tags>    
+<minrevision></minrevision>
+<platforms>
+<platform>all</platform>
+</platforms>
+<dependencies>
+<dependency minversion="" maxversion="">
+</dependency> </dependencies>
+<disclaimer>The author is not to be held liable for any copyrights that any content providers may have infringed on</disclaimer>
+<license>Proprietary</license>
+</addoninfo>
